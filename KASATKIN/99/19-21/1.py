@@ -18,5 +18,5 @@ def game(h):
 
 for s in range(1, 1000):
     h = s
-    if game(h) == 'B1':
+    if game(h) == 'B2':
         print(game(h), s)
